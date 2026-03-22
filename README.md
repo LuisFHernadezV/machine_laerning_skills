@@ -66,7 +66,7 @@ Esta app no pretende reemplazar los notebooks completos, sino ofrecer una **vent
 
 ```bash
 # 1. Clonar el repositorio (si aún no lo tienes)
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/LuisFHernadezV/machine_laerning_skills.git
 cd curso_machine_learning
 
 # 2. Crear y activar entorno virtual
